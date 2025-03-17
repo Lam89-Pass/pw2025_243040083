@@ -32,5 +32,4 @@ $hardware = ["Motherboard", "Processor", "Hard Disk", "PC Coller", "VGA Card", "
         <?php endforeach; ?>
     </ol>
 </body>
-
 </html>
