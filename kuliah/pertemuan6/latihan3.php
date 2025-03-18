@@ -11,7 +11,7 @@ $mahasiswa = [
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Array Bersarang</title>
+    <title>Array Bersarang Baru</title>
 </head>
 
 <body>
